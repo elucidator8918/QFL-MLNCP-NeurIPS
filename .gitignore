@@ -1,0 +1,5 @@
+data
+*.pkl
+results
+*.pt
+*pycache*
