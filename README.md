@@ -1,6 +1,6 @@
 # QFed+FHE: Quantum Federated Learning with Secure Fully Homomorphic Encryption (FHE)
 
-
+![image](https://github.com/user-attachments/assets/933ee156-7599-4ed8-9f2a-754677d60a94)
 
 ## Overview
 
